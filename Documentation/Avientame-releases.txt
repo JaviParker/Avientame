@@ -1,0 +1,17 @@
+
+Inicio
+    acerca
+    servicios
+    direccion
+    equipo
+    contacto
+Bases de datos
+Login - registro
+Dashboard
+Editar perfil
+CRUD de sus 
+
+sugerencia
+Laravel - MERN
+React - vue
+CSS3, sass puro - tailwind
